@@ -1,0 +1,12 @@
+- susikuriam readme
+- susikuriam folderius:
+  - img
+  - js
+  - fonts
+  - css
+- css folderyje susikurti folderi components (mygtukai, forma, slider...)
+- css folderyje susikurti folderi pages (jame home.css)
+- css folderyje susikurti base folderi (base.css, layout.css)
+- css folderyje susikurti 3rd party folderi (base.css, layout.css)
+
+- home.css importuojam base dalykus, ir komponentus
