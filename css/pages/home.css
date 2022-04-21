@@ -1,10 +1,10 @@
 /*base*/
-@import '../base/base.css';
+/*@import '../base/base.css';*/
 @import '../base/layout.css';
 
 /*3rd - party*/
 /* components*/
-@import '../components/button.css';
+/*@import '../components/button.css';
 @import'../components/form.css';
 
 /*CUSTOM STYLE GOES BELOW THIS LINE*/
