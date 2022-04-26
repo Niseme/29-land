@@ -1,6 +1,7 @@
 /*base*/
-/*@import '../base/base.css';*/
+@import '../base/base.css';
 @import '../base/layout.css';
+@import '../base/grid-media-layout.css'
 
 /*3rd - party*/
 /* components*/
