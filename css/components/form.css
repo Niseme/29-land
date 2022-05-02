@@ -1,0 +1,17 @@
+.form-row {
+    width: 100%;
+    margin-bottom: 15px;
+    box-shadow: 0px 4px 5px #565656;
+}
+
+input {
+    font-family: 'Poppins',
+        sans-serif;
+    width: 100%;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #495057;
+    height: 50px;
+    padding: 0 15px;
+    border: none;
+}
