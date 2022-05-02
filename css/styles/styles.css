@@ -1,0 +1,60 @@
+main {   
+    background-color: beige;
+    background-image: url('../../img/header/bg-people.jpg');
+    background-repeat: no-repeat;
+}
+
+.bg-overlay{
+background: linear-gradient(-47deg, #8731E8 0%, #4528DC 100%);
+opacity: 0.94;
+}
+
+.header-block{
+    font-family: 'PT Sans', sans-serif;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+a{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 14px;
+    padding: 20px 30px;
+    text-decoration: none;
+    color: #fff
+}
+
+.fa.fa-caret-down{
+    margin-top: 4px;
+}
+
+.hero h1{
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.2;
+    font-size: 4em;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.hero p {
+font-family: 'Poppins', sans-serif;
+font-size: 14px;
+line-height: 24px;
+font-weight: 400;
+color: #ffffff;
+margin: 24px 0;
+}
+
+.btn{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+    color: #444444;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin: 18px 30px;
+    border: 2px solid black;
+    background-color: #ffffff;
+    border-radius: 30px;
+}

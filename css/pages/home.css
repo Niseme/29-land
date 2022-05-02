@@ -1,9 +1,11 @@
 /*base*/
 @import '../base/base.css';
 @import '../base/layout.css';
-@import '../base/grid-media-layout.css'
+@import '../base/grid-media-layout.css';
+@import '../styles/styles.css';
 
 /*3rd - party*/
+@import '../3rd-party/font-awesome.min.css';
 /* components*/
 /*@import '../components/button.css';
 @import'../components/form.css';
