@@ -1,13 +1,24 @@
 .btn{
+    display: inline-block;
     font-family: 'Poppins', sans-serif;
     font-size: 15px;
     line-height: 24px;
     color: #444444;
     letter-spacing: 1px;
     text-transform: uppercase;
-    border: 2px solid black;
     background-color: #ffffff;
     border-radius: 30px;
-    padding: 20px 30px;
+    padding: 18px 30px;
     text-decoration: none;
+    border: 2px solid black;
+}
+
+.hero .btn:hover {
+    transition: 0.5s;
+    background: linear-gradient(-47deg, #8731E8 0%, #4528DC 100%);
+    color: #ffffff;
+}
+
+span .btn.premium-btn {
+    padding: 0;
 }
