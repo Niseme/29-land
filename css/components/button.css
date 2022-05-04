@@ -19,6 +19,11 @@
     color: #ffffff;
 }
 
-span .btn.premium-btn {
-    padding: 0;
+.premium-btn {
+display: flex;
+align-items: center;
+font-family: 'Poppins', sans-serif;
+font-size: 14px;
+padding: 8px 24px;
+text-transform: capitalize ;
 }
