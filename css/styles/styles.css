@@ -121,7 +121,8 @@ text-transform: capitalize;
     justify-content: center;
     align-items: center;
     text-align: center;
-    border: 2px solid black;
+    box-shadow: 0 3px 20px 0px rgb(0 0 0 / 12%);
+    border-radius: 1.5rem;
     padding: 48px;
 }
 
@@ -144,6 +145,9 @@ text-transform: capitalize;
     margin: 0;
 }
 
-
+.grid-cell:hover{
+    transform: translateY(-10px) ;
+    transition: 0.5s;
+}
 
 /* PREMIUM ENDS */
